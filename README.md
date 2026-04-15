@@ -6,7 +6,7 @@ This repository contains projects where analysis, forecasts, and experiments are
 # Content:
 
 # Technical Analisys
-Technical analysis experimentation throughout plots, candlestick plots, exponential moving average (EMA), MACD (Moving Average Convergence Divergence).
+Technical analysis experimentation throughout plots, candlestick plots, exponential moving average (EMA), MACD (Moving Average Convergence Divergence), and sentiment analysis.
 
 # Forecasting
 Predicing the actual value and ahead utilising different algothims as ARIMA, SARIMA, Random Forest, XGBoost, and Prophet.
